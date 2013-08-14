@@ -50,3 +50,5 @@ def myFunc(a,b):
 myFunc(1253,3543)
 # will yield 3754.210969031975
 
+
+GitHub Repo : https://github.com/zdevops/zequals
