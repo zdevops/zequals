@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name = "zequals",
     packages = ["zequals"],
-    version = "0.0.3",
+    version = "0.0.4",
 	description = "Ruthless Rounding at it's Finest :)",
     author = "Henri Kuiper",
     author_email = "henrikuiper@zdevops.com",
