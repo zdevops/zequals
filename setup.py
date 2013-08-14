@@ -2,11 +2,11 @@ from distutils.core import setup
 setup(
     name = "zequals",
     packages = ["zequals"],
-    version = "0.0.4",
+    version = "0.0.5",
 	description = "Ruthless Rounding at it's Finest :)",
     author = "Henri Kuiper",
     author_email = "henrikuiper@zdevops.com",
-	url = "http://www.youtube.com/watch?v=aOJOfh2_4PE",
+	url = "http://zdevops.tumblr.com/post/58266444071/zequals-ruthless-rounding",
     download_url = "",
     keywords = ["numberphile", "Rob Eastaway", "zequalize"],
     classifiers = [
